@@ -1,2 +1,2 @@
 print demo3
-print demo3 &4
+print demo+demo
